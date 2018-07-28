@@ -1,0 +1,11 @@
+*{
+	font-family: verdana;
+}
+
+.completo{
+	text-decoration:line-through;
+}
+
+.incompleto{
+	text-decoration: none;
+}
